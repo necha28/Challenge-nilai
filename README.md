@@ -7,5 +7,4 @@ Tampilan Awal Data Nilai
 Tambah Data
 
 ![Alt Text](https://github.com/necha28/Challenge-nilai/blob/master/tambahdata1.PNG)
-
 ![Alt Text](https://github.com/necha28/Challenge-nilai/blob/master/tambahdata2.PNG)
